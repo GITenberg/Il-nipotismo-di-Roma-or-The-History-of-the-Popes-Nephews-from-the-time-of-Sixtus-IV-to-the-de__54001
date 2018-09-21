@@ -1,11 +1,14 @@
 _repo: Il-nipotismo-di-Roma-or-The-History-of-the-Popes-Nephews-from-the-time-of-Sixtus-IV-to-the-de__54001
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Aglionby, William
     deathdate: 1705
     gutenberg_agent_id: '49652'
     url: http://www.gutenberg.org/2009/agents/49652
+covers:
+- cover_type: archival
+  image_path: 54001-h/images/coverb.jpg
 creator:
   author:
     agent_name: Leti, Gregorio
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '47651'
     url: http://www.gutenberg.org/2009/agents/47651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54001#Il-nipotismo-di-Roma-or-The-History-of-the-Popes-Nephews-from-the-time-of-Sixtus-IV-to-the-de_
 gutenberg_issued: '2017-01-17'
 gutenberg_type: Text
 identifiers:
