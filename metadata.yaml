@@ -1,0 +1,39 @@
+_repo: Il-nipotismo-di-Roma-or-The-History-of-the-Popes-Nephews-from-the-time-of-Sixtus-IV-to-the-de__54001
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Aglionby, William
+    deathdate: 1705
+    gutenberg_agent_id: '49652'
+    url: http://www.gutenberg.org/2009/agents/49652
+creator:
+  author:
+    agent_name: Leti, Gregorio
+    aliases:
+    - Leti, Gregoire
+    - Capocoda, Giulio
+    - Gualdi, abate
+    - Gualdi, Abbot
+    - Abate Gualdi
+    birthdate: 1630
+    deathdate: 1701
+    gutenberg_agent_id: '47651'
+    url: http://www.gutenberg.org/2009/agents/47651
+description: ''
+gutenberg_issued: '2017-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Papacy -- History'
+- !lcsh 'Nepotism'
+- !lcsh 'Papacy -- Early works to 1800'
+- !lcc 'BX'
+- GITenberg
+title: "Il nipotismo di Roma, or, The History of the Popes Nephews\r\nfrom the time\
+  \ of Sixtus IV. to the death of the last Pope, Alexander VII"
+url: http://www.gutenberg.org/ebooks/54001
